@@ -1,57 +1,85 @@
-# 🏦 Guru99-Bank-Live-Automation-Project
+# 🏦 Guru99 Bank Live Automation Project
 
 ## 📖 Overview
-Welcome to the Banking Project! This Java application, developed in Eclipse, provides essential banking functionalities, including:
+Welcome to my Guru99 Banking Project! This project is a 7-day journey of testing developed in Eclipse, showcasing essential banking functionalities.
 
-- **Account Creation**
-- **Balance Inquiry**
-- **Fund Transfers**
-- **Transaction History Tracking**
+### Key Functionality
+- **Login Page**: Access your account using valid credentials.
 
 ## ✨ Features
-- **User Account Management**: Create and manage user accounts.
-- **Real-Time Balance Inquiry**: Check account balances instantly.
-- **Secure Fund Transfers**: Transfer funds between accounts securely.
-- **Detailed Transaction History**: Keep track of all transactions.
+- **Login Functionality**: Successfully log in using valid credentials.
 
 ## ⚙️ Technology Stack
-- **Java** (version)
-- **Eclipse IDE** (version)
-- (Any additional technologies, e.g., MySQL)
+This project uses the following technologies:
+- **Google Chrome DevTools**
+- **Java**
+- **Eclipse IDE**
+- **Selenium**
+- **TestNG**
 
 ## 🚀 Getting Started
 
 ### 🛠️ Prerequisites
-Make sure you have the following installed:
-- **Java JDK** (version)
-- **Eclipse IDE** (version)
+Before you begin, ensure you have the following installed:
+- **Google Chrome**
+- **Java JDK**
+- **Eclipse IDE**
+- **Selenium**
+- **TestNG**
 
-### 📥 Installation
-1. **Clone or Download the Project:**
-   - [Download Project Files](link_to_your_project_folder)
-  
-2. **Import the Project in Eclipse:**
+### 📥 Setup
+Follow these steps to set up the project in Eclipse:
+
+1. **Create the Project in Eclipse**:
    - Open Eclipse.
-   - Navigate to `File` > `Import...`
-   - Select `Existing Projects into Workspace`.
-   - Browse to your downloaded project folder and select it.
+   - Navigate to `File` > `New` > `Java Project` and name it: `Guru99 Bank Live Project Automated`.
+   - Create two packages: `loginModule` and `util`.
+   - Add a class for each day of the project, along with a class for the username and password.
 
-3. **Configure Dependencies**: Ensure all dependencies are properly configured.
+2. **Configure Java Build Path**:
+   - Ensure all `External JARs` and `Libraries` are properly added and applied.
 
 ### ▶️ Running the Application
-- Execute the main class from Eclipse to run the application.
+To run the application:
+- Execute the desired class from Eclipse.
 
 ## 🧪 Testing
-Daily test cases are documented in our Google Drive folder. Check them out here:
+Daily test cases are documented in my Google Drive folder. Check them out here:
 
 👉 [Google Drive - Daily Test Cases](link_to_your_google_drive_folder)
 
 ## 📸 Screenshots
-Here are some screenshots showcasing the application:
+Below are screenshots showcasing emails with client requests from Guru99:
 
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-![Screenshot 3](link_to_screenshot3)
+<details>
+<summary> <strong>Day 1: Project Kickoff</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day1.png)
+</details>
+
+<details>
+<summary> <strong>Day 2: Enhancements in Scripts</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day2.png)
+</details>
+
+<details>
+<summary> <strong>Day 3: Parametrize Your Script</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day3.png)
+</details>
+
+<details>
+<summary> <strong>Day 5: Get Started with Dynamic Text</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day5.png)
+</details>
+
+<details>
+<summary> <strong>Day 6: Screenshots Required</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day6.png)
+</details>
+
+<details>
+<summary> <strong>Day 6: Eclipse Preview</strong> </summary>
+![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/eclipsePreview.png)
+</details>
 
 ## 🤝 Contributions
 Contributions are welcome! Feel free to:

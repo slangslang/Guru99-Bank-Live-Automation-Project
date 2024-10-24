@@ -43,7 +43,6 @@ To run the application:
 - Executed the desired classes from Eclipse.
 
 ## 📸 Screenshots
-<a id="screenshots"></a>
 Below are screenshots showcasing a preview of the project:
 
 <details>
@@ -69,7 +68,7 @@ Below are screenshots showcasing a preview of the project:
 ![Eclipse Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/eclipsePreview.png)
 *Preview of the Java class in Eclipse showcasing the results at the bottom.*
 
-[Back to Top of Screenshots](screenshots)
+[Back to Top of Screenshots](#screenshots)
 
 </details>
 

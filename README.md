@@ -19,16 +19,23 @@ This project uses the following technologies:
 
 ## 🚀 Getting Started
 
-### 📥 Setup
-Follow these steps to set up the project in Eclipse:
+### 📊 Documentation
+In the Google Spreadsheet, I documented the following:
 
-1. **Create the Project in Eclipse**:
+- **Test Cases**: A comprehensive list of test cases covering the login functionality of the application to ensure the feature is working as expected.
+- **Change Log**: A record of all changes made to the project, including updates, improvements, and bugs found.
+- **Bug Reports**: Detailed documentation of any bugs encountered during testing, along with their statuses, priority, and severity.
+
+### 📥 Setup
+These are the steps I took to set up the project in Eclipse:
+
+1. **Created the Project in Eclipse**:
    - Open Eclipse.
    - Navigated to `File` > `New` > `Java Project` and named it: `Guru99 Bank Live Project Automated`.
    - Created two packages: `loginModule` and `util`.
    - Added a class for each day of the project in `loginModule` along with a class for the username and password info in `util`.
 
-2. **Configure Java Build Path**:
+2. **Configured Java Build Path**:
    - Ensured all `External JARs` and `Libraries` were properly added and applied.
 
 ### ▶️ Running the Application
@@ -36,26 +43,8 @@ To run the application:
 - Executed the desired classes from Eclipse.
 
 ## 📸 Screenshots
-Below are screenshots showcasing emails with client requests from Guru99 and a Project preview:
-
-<details>
-<summary> <strong>Emails Preview</strong> </summary>
-
-**Day 1: Project Kickoff**   
-![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day1.png) 
-
-**Day 2: Enhancements in Scripts**   
-![screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day2.png)
-
-**Day 3: Parametrize Your Script**   
-![Java Code](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day3.png)
-
-**Day 5: Get Started with Dynamic Text**   
-![Eclipse Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day5.png)
-
-**Day 6: Screenshots Required**   
-![Eclipse Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Day6.png)
-</details>
+<a id="screenshots"></a>
+Below are screenshots showcasing a preview of the project:
 
 <details>
 <summary> <strong>Project Previews</strong> </summary>
@@ -68,6 +57,10 @@ Below are screenshots showcasing emails with client requests from Guru99 and a P
 ![Google Sheets Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/testCasePreview.png)
 *Preview of the test cases documentation in Google Sheets.*
 
+**Google Sheets Bug Report Preview:**
+![Google Sheets Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/bugReport.png)
+*Preview of the bug reports documentation in Google Sheets.*
+
 **Java Class Preview:**
 ![Java Code](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/javaCode.png)
 *Preview of the Java class documentation from Eclipse.*
@@ -75,6 +68,9 @@ Below are screenshots showcasing emails with client requests from Guru99 and a P
 **Eclipse Preview:**
 ![Eclipse Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/eclipsePreview.png)
 *Preview of the Java class in Eclipse showcasing the results at the bottom.*
+
+[Back to Top of Screenshots](screenshots)
+
 </details>
 
 ## 🧪 Testing

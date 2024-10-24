@@ -1,7 +1,7 @@
 # 🏦 Guru99 Bank Live Automation Project
 
 ## 📖 Overview
-Welcome to my Guru99 Banking Project! This project is a 7-day journey of testing, developed in Eclipse, showcasing one of the essential banking functionalities. Special thanks to [Guru99](https://www.guru99.com/live-selenium-project.html) for providing this free live Selenium project.
+Welcome to my Guru99 Banking Project! This project is a 7-day journey of testing, developed in Eclipse, showcasing one of the essential banking functionalities. Special thanks to [Guru99](https://www.guru99.com/) for providing this free live Selenium project [Live Project Sign Up](https://www.guru99.com/live-selenium-project.html).
 
 ### Key Functionality
 - **Login Page**

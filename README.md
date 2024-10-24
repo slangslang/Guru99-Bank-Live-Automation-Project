@@ -68,7 +68,7 @@ Below are screenshots showcasing a preview of the project:
 ![Eclipse Screenshot](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/eclipsePreview.png)
 *Preview of the Java class in Eclipse showcasing the results at the bottom.*
 
-[Back to Top of Screenshots](#screenshots)
+[Back to Top of Screenshots](#running-the-application)
 
 </details>
 

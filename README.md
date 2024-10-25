@@ -39,8 +39,7 @@ These are the steps I took to set up the project in Eclipse:
    - Ensured all `External JARs` and `Libraries` were properly added and applied.
 
 ### ▶️ Running the Application
-To run the application:
-- Executed the desired classes from Eclipse.
+Executed the desired classes from Eclipse.
 
 ## 📸 Screenshots
 Below are screenshots showcasing a preview of the project:

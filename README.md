@@ -79,7 +79,7 @@ Below are screenshots showcasing a preview of the project:
 ## 🧪 Testing
 Further details on the daily test cases are documented in my Google Drive folder with Eclipse java files. Check them out here:
 
-[![Test Cases](https://img.shields.io/badge/Test%20Cases-Sheets-grey?style=for-the-badge&logo=googlesheets&color=%2334A853)](https://drive.google.com/drive/folders/1OK8L-nVvQw7-bO5oz0r1va06jz_apyAR?usp=sharing)
+[![Test Cases](https://img.shields.io/badge/Google-Drive-grey?style=for-the-badge&logo=googledrive&color=%234285F4)](https://drive.google.com/drive/folders/1OK8L-nVvQw7-bO5oz0r1va06jz_apyAR?usp=sharing)
 
 ---
 

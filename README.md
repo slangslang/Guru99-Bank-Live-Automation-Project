@@ -6,6 +6,11 @@ Welcome to my Guru99 Banking Project! This project is a 7-day journey of testing
 ### Key Functionality
 - **Login Page**
 
+## 💻 Project Demo
+
+![endpoint testing afternoon demo](https://github.com/slangslang/Guru99-Bank-Live-Automation-Project/blob/main/img/Guru99%20Bank%20Live%20Project%20Automated.gif)   
+*Preview of the finished project with passing results*
+
 ## ✨ Features
 - **Login Functionality**: Access your account using valid credentials.
 
@@ -74,9 +79,9 @@ Below are screenshots showcasing a preview of the project:
 ## 🧪 Testing
 Further details on the daily test cases are documented in my Google Drive folder with Eclipse java files. Check them out here:
 
-👉 [Google Drive - Daily Test Cases](https://drive.google.com/drive/folders/1OK8L-nVvQw7-bO5oz0r1va06jz_apyAR?usp=sharing)
+[![Test Cases](https://img.shields.io/badge/Test%20Cases-Sheets-grey?style=for-the-badge&logo=googlesheets&color=%2334A853)](https://drive.google.com/drive/folders/1OK8L-nVvQw7-bO5oz0r1va06jz_apyAR?usp=sharing)
 
 ---
 
-Thank you for checking out the Banking Project! Your feedback and contributions are appreciated!
+Thank you for checking out the Banking Project! Your feedbacks are appreciated!
 
